@@ -1,16 +1,19 @@
-# Intro site with introduce of me
+---
+code_name: TM-P_INTRO_WEB_VUE_TSC
+create_date: 2017-04
+release_date: 2017-05
+author: TM
+author_site: timsmanter.net
+project_site: timsmanter.net
+editor: Visual Studio Code
+language: TypeScript
+framework: Vue.js
+locale: en_US
+license: GPLv3
+status: [Stable, Active]
+---
 
-* @Author: TimsManter
-* @AuthorSite: [TimsManter.NET](http://timsmanter.net/)
-* @CreateDate: 2017-04
-* @ReleaseDate: 2017-05
-* @Editor: Visual Studio Code
-* @Language: TypeScript
-* @Framework: Vue.js
-* @Locale: en_US
-* @License: [GPLv3](LICENSE.md)
-* @Status: Dev | Active
-* @ProjectSite: [Me.TimsManter.NET](http://me.timsmanter.net)
+# Intro site with introduce of me
 
 <!-- TOC -->
 
